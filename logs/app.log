@@ -1,0 +1,21 @@
+2025-07-17 10:59:36 [main] INFO  MyStore.com.Mystore.BaseTest - Testing login with email:  + email
+2025-07-17 10:59:42 [main] INFO  MyStore.com.Mystore.BaseTest - URL matched, login successful for:  + email
+2025-07-17 10:59:44 [main] INFO  MyStore.com.Mystore.BaseTest - Account Succesfull Created 
+2025-07-17 10:59:53 [main] INFO  MyStore.com.Mystore.BaseTest - All Details Enterd correctlly and valied
+2025-07-17 10:59:55 [main] INFO  MyStore.com.Mystore.BaseTest - CheckingProductSummary
+2025-07-17 11:04:05 [main] INFO  MyStore.com.Mystore.BaseTest - Launching browser
+2025-07-17 11:04:12 [main] INFO  MyStore.com.Mystore.BaseTest - ✅ URL matched: http://www.automationpractice.pl/index.php?controller=authentication&back=my-account
+2025-07-17 11:04:12 [main] INFO  MyStore.com.Mystore.BaseTest - Checking URL completed.
+2025-07-17 11:04:13 [main] INFO  MyStore.com.Mystore.BaseTest - Testing login with email:  + email
+2025-07-17 11:04:20 [main] INFO  MyStore.com.Mystore.BaseTest - URL matched, login successful for:  + email
+2025-07-17 11:04:21 [main] INFO  MyStore.com.Mystore.BaseTest - Account Succesfull Created 
+2025-07-17 11:04:30 [main] INFO  MyStore.com.Mystore.BaseTest - All Details Enterd correctlly and valied
+2025-07-17 11:04:32 [main] INFO  MyStore.com.Mystore.BaseTest - CheckingProductSummary
+2025-07-17 14:07:05 [main] INFO  MyStore.com.Mystore.BaseTest - Launching browser
+2025-07-17 14:07:17 [main] INFO  MyStore.com.Mystore.BaseTest - ? URL matched: http://www.automationpractice.pl/index.php?controller=authentication&back=my-account
+2025-07-17 14:07:17 [main] INFO  MyStore.com.Mystore.BaseTest - Checking URL completed.
+2025-07-17 14:07:19 [main] INFO  MyStore.com.Mystore.BaseTest - Testing login with email:  + email
+2025-07-17 14:07:27 [main] INFO  MyStore.com.Mystore.BaseTest - URL matched, login successful for:  + email
+2025-07-17 14:07:28 [main] INFO  MyStore.com.Mystore.BaseTest - Account Succesfull Created 
+2025-07-17 14:07:39 [main] INFO  MyStore.com.Mystore.BaseTest - All Details Enterd correctlly and valied
+2025-07-17 14:07:41 [main] INFO  MyStore.com.Mystore.BaseTest - CheckingProductSummary
